@@ -1,0 +1,1 @@
+Open the main.html in task1 & task2 folders
